@@ -49,7 +49,7 @@
     "@stripe/stripe-js": "^1.16.0",
     "@tailwindcss/forms": "^0.3.3",
     "@trpc/client": "^9.9.1",
-    "@trpc/next": "^9.9.1",
+    "@trpc/next": "^9.11.0",
     "@trpc/react": "^9.9.1",
     "@trpc/server": "^9.9.1",
     "@types/stripe": "^8.0.417",

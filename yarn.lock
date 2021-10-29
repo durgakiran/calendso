@@ -1620,38 +1620,38 @@
     javascript-natural-sort "0.7.1"
     lodash "4.17.21"
 
-"@trpc/client@^9.9.1":
-  version "9.9.1"
-  resolved "https://registry.npmjs.org/@trpc/client/-/client-9.9.1.tgz#98c335378c019abc9d521f0d2d87efb04dc4abcf"
-  integrity sha512-pi1fOvfYeU/+Tk42chdYqsNKtVx7ep4m2Xr7oAxyV0veB54vTtY8UkX8o923Gci3x0KN7hfImyP6oGfTrgZ+Jw==
+"@trpc/client@9.11.0", "@trpc/client@^9.9.1":
+  version "9.11.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-9.11.0.tgz#0d033ac69394f68eb9fd9332093288cee8ab7dc5"
+  integrity sha512-ysCkAvkX6S5vAoeeu8zaPBuJHdUYocP/qjp93I3tRSzF/wcQGZbot7qeSJuvBiotzB+k4c0gnO34j+crfWxPig==
   dependencies:
     "@babel/runtime" "^7.9.0"
-    "@trpc/server" "^9.9.1"
+    "@trpc/server" "9.11.0"
 
-"@trpc/next@^9.9.1":
-  version "9.9.1"
-  resolved "https://registry.npmjs.org/@trpc/next/-/next-9.9.1.tgz#3859050cea51de04f710056418f466d3b6683a7c"
-  integrity sha512-wkY69pLs6fakNLNvHYDWoY5PCGuN9VqL6FjDOtdPFGOvsi4GZ2O1wdkrRiLa2euhgHQKAxyLWVFEAPk2tfkXcQ==
+"@trpc/next@^9.11.0":
+  version "9.11.0"
+  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-9.11.0.tgz#86fb2db8c9bdcac4f43c0bff8c2b8af67b03bd6f"
+  integrity sha512-2GaAmr1caGEb7EH7/a63TnEiw3kWDV4aDVpVPcCniQqazTTQT81g7YIiWjRs0iJT3FTqV9HReoY7hQ2Y1wBmQg==
   dependencies:
     "@babel/runtime" "^7.9.0"
-    "@trpc/client" "^9.9.1"
-    "@trpc/react" "^9.9.1"
-    "@trpc/server" "^9.9.1"
+    "@trpc/client" "9.11.0"
+    "@trpc/react" "9.11.0"
+    "@trpc/server" "9.11.0"
     react-ssr-prepass "^1.4.0"
 
-"@trpc/react@^9.9.1":
-  version "9.9.1"
-  resolved "https://registry.npmjs.org/@trpc/react/-/react-9.9.1.tgz#e6d1601c50429fa881f4827675a3cf116fd18380"
-  integrity sha512-rI2K6OLLRJraW/HKs0t6sLdspzLY2uHpAXZTM4HoXnbhpSw65VWW/vac54GreUYbhqPI9teFlEzmNRGhh20fvw==
+"@trpc/react@9.11.0", "@trpc/react@^9.9.1":
+  version "9.11.0"
+  resolved "https://registry.yarnpkg.com/@trpc/react/-/react-9.11.0.tgz#5bff565e3c8b1bd596b029e2b4bc2081e80f9a98"
+  integrity sha512-Geh+yMGO7dfBT9vIVUrN5rV/mMehqdlF+6Q+wZ9+onwpxfzNiHgmuRrUOHV82kGpFi4mLJ+l3W8pIqjVhOJWnA==
   dependencies:
     "@babel/runtime" "^7.9.0"
-    "@trpc/client" "^9.9.1"
-    "@trpc/server" "^9.9.1"
+    "@trpc/client" "9.11.0"
+    "@trpc/server" "9.11.0"
 
-"@trpc/server@^9.9.1":
-  version "9.9.1"
-  resolved "https://registry.npmjs.org/@trpc/server/-/server-9.9.1.tgz#766e720199a0085f1983b75e9be48f55d308cb9a"
-  integrity sha512-RNjOkXO4D8rTR1lBGG4PjtCFP1oPCwjJKWdzL/Gs3rQv/r3oQ9CJtXLaaz5Dk34XRJwjasLx2zp2/GGFrRyc2w==
+"@trpc/server@9.11.0", "@trpc/server@^9.9.1":
+  version "9.11.0"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-9.11.0.tgz#dee35825ecb529c900d463aecf4ca188d0963bb6"
+  integrity sha512-zxl+QMSZvLyev9XxQXVbm49PZYAyrIPy80cGqrvDlbb5/s82lpC9/C+brjNj2c3Aeq69Nk07A4sATbXolcgBjg==
   dependencies:
     tslib "^2.1.0"
 
